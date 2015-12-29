@@ -1,0 +1,8 @@
+// program to print hello world in java
+class prog1 //declaring name of the class
+{
+ public static void main(String args[]) //method declaration
+ {
+  System.out.println("Hello world"); //printing hello world
+ }//main() closing
+}//class closing
